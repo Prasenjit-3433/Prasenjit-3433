@@ -10,19 +10,19 @@
 
 - 🏗️ I’m currently working on personal project - [StyleRio](https://github.com/Prasenjit-3433/StyleRio)
 
-- 🌱 I’m currently learning **SASS or SCSS**
+- 🌱 I’m currently learning **CSS Preprocessor**
 
 - 👨‍💻 All of my projects are available at [Coming Soon!]()
 
 - 📝 I write weekly articles on [Link Post](https://www.linkedin.com/in/prasenjit-sutradhar-793a1722b/recent-activity/)
 
-- 🧠 I use JavaScript/TypeScript to learn **complex engineering**
+- 🧠 I use JavaScript/TypeScript to learn **Complex Engineering**
 
 - 🏋️ I use Java to learn **DSA & LLD, Design Patterns**
 
 - 📫 How to reach me **prasenjitsutradhar3433@gmail.com**
 
-- 📄 Know about my experiences [Here!]()
+- 📄 Know about my experiences [Coming Soon!]()
 
 - ⚡ Fun fact **My fucus is on complex engineering, not a particular language**
 
