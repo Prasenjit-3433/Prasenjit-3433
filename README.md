@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)]()
 
 <h1 align="center">Hi 👋, I'm Prasenjit Sutradhar</h1>
-<h3 align="center">A full-stack engineer from India</h3>
+<h3 align="center">A Full-Stack Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjit-3433&label=Profile%20views&color=0e75b6&style=flat" alt="prasenjit-3433" /> </p>
