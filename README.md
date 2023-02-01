@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasenjit-3433&label=Profile%20views&color=0e75b6&style=flat" alt="prasenjit-3433" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jennybo66477645" target="blank"><img src="https://img.shields.io/twitter/follow/jennybo66477645?logo=twitter&style=for-the-badge" alt="jennybo66477645" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Prasenj13074756" target="blank"><img src="https://img.shields.io/twitter/follow/Prasenj13074756?logo=twitter&style=for-the-badge" alt="Prasenj13074756" /></a> </p>
 
 - 🏗️ I’m currently working on personal project - [StyleRio](https://github.com/Prasenjit-3433/StyleRio)
 
@@ -14,17 +14,17 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon!]()
 
-- 📝 I write weekly articles on [Link Post]()
+- 📝 I write weekly articles on [Linkedin](https://www.linkedin.com/in/prasenjitsutradhar/recent-activity/)
 
-- 🧠 I use JavaScript/TypeScript to learn **Complex Engineering**
+- 🧠 I use JavaScript/TypeScript to learn **Complex Engineering Concepts**
 
 - 🏋️ I use Java to learn **DSA & LLD, Design Patterns**
 
 - 📫 How to reach me **prasenjitsutradhar3433@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon!]()
+- 📄 Know about my experiences [Resume!]()
 
-- ⚡ Fun fact **My fucus is on complex engineering, not a particular language**
+- ⚡ Fun fact **I love to meet & talk with new people, love to connect on Linkedin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
