@@ -28,13 +28,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/prasenjit-sutradhar-793a1722b/" target="blank">
+    <a href="https://www.linkedin.com/in/prasenjitsutradhar/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasenjit-sutradhar-793a1722b/" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/bubbaluke" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bubbaluke" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/jennybo66477645" target="blank">
+    <a href="https://twitter.com/Prasenj13074756" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jennybo66477645" height="30" width="40" />
     </a>
 </p>
