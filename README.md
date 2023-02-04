@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Webpack**
 
-- 👨‍💻 All of my projects are available at [Coming Soon!]()
+- 👨‍💻 All of my projects are available at [GitHub Repos!](https://github.com/Prasenjit-3433?tab=repositories)
 
 - 📝 I write weekly articles on [Linkedin](https://www.linkedin.com/in/prasenjitsutradhar/recent-activity/)
 
