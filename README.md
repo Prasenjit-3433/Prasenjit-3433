@@ -10,7 +10,7 @@
 
 - 🏗️ I’m currently working on personal project - [StyleRio](https://github.com/Prasenjit-3433/StyleRio)
 
-- 🌱 I’m currently learning **CSS Preprocessor**
+- 🌱 I’m currently learning **Webpack**
 
 - 👨‍💻 All of my projects are available at [Coming Soon!]()
 
