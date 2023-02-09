@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repos!](https://github.com/Prasenjit-3433?tab=repositories)
 
-- 📝 I write weekly articles on [Linkedin](https://www.linkedin.com/in/prasenjitsutradhar/recent-activity/)
+- 📝 I write weekly articles on [Linkedin](https://www.linkedin.com/in/prasenjitsutradhar/recent-activity/posts/)
 
 - 🧠 I use JavaScript/TypeScript to learn **Complex Engineering Concepts**
 
