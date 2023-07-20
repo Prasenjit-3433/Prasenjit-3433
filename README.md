@@ -10,7 +10,7 @@
 
 - 🏗️ I’m currently working on the project - [Prod-Ready-Webpack](https://github.com/Prasenjit-3433/Prod-Ready-Webpack)
 
-- 🌱 I’m currently learning **Webpack**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 👨‍💻 All of my projects are available at [GitHub Repos!](https://github.com/Prasenjit-3433?tab=repositories)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [Resume!]()
 
-- ⚡ Fun fact **I love to meet & talk with new people, love to connect on Linkedin!**
+- ⚡ Fun fact: **I love to meet & talk with new people, love to connect on Linkedin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
