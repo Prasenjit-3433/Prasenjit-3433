@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **prasenjitsutradhar3433@gmail.com**
 
-- 📄 Know about my experiences [Resume!]()
+- 📄 Know about my experiences [Resume!](https://drive.google.com/file/d/1QIHFDNrTPtBS0ktylN4ikzqwBV-oDKww/view?usp=sharing)
 
 - ⚡ Fun fact: **I love to meet & talk with new people, love to connect on Linkedin!**
 
